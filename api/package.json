@@ -1,0 +1,15 @@
+{
+  "name": "rpi-nas-api",
+  "version": "0.1.0",
+  "description": "transmission rpc proxy",
+  "main": "src/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "transmission",
+    "rpc"
+  ],
+  "author": "aGuegu <weihong.guan@gmail.com>",
+  "license": "ISC"
+}
